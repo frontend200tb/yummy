@@ -160,6 +160,15 @@ p {
     animation: overlay 3s forwards;
 }
 
+.copyright {
+    text-align: center;
+}
+
+.copyright a {
+    text-decoration: none;
+    color: #000;
+}
+
 @media (min-width: 730px) {
 
     section {
